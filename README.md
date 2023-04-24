@@ -89,11 +89,13 @@ int main() {
 <div align="center">
 <img src="assets/4.png" width=600>
 </div>
+
 将本仓库的**python_trt.py**复制到dll文件夹下。
 
 <div align="center">
 <img src="assets/5.png" width=600>
 </div>
+
 设置模型路径，**dll**路径和想要预测的图片路径，特别注意模型**路径需要加b''**
 
 ```
