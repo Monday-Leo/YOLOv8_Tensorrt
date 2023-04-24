@@ -51,7 +51,7 @@ trtexec --onnx=yolov8n.transd.onnx --saveEngine=yolov8n_fp16.trt --fp16
 
 ## C++
 
-配置**Opencv**、**Tensorrt**环境，具体可参考https://github.com/Monday-Leo/Yolov5_Tensorrt_Win10，此处省略。
+配置**Opencv**、**Tensorrt**环境，具体可参考https://github.com/Monday-Leo/Yolov5_Tensorrt_Win10
 
 打开本仓库的**CMakeLists.txt**，修改**Opencv**、**Tensorrt**路径，之后cmake。
 
