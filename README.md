@@ -1,6 +1,6 @@
 ## B站教学视频
 
-**TODO**
+https://www.bilibili.com/video/BV1Pa4y1N7HS
 
 ## Introduction
 
@@ -13,6 +13,7 @@
 <div align="center">
 <img src="assets/1.png" width=800>
 </div>
+
 ## Environment
 
 - **Tensorrt 8.4.3.**
@@ -80,6 +81,7 @@ int main() {
 <div align="center">
 <img src="assets/3.jpg" width=600>
 </div>
+
 ## Python
 
 在刚才的C++工程中右键yolov8，点击属性，修改为**动态链接库**。
@@ -102,6 +104,7 @@ img = cv2.imread("./zidane.jpg")
 <div align="center">
 <img src="assets/6.png" width=600>
 </div>
+
 ## Reference
 
 https://github.com/ultralytics/ultralytics
